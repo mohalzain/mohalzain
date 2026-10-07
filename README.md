@@ -1,60 +1,34 @@
-<h3 data-importer="text" align="left"> Hi, I'm Mohammed</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammed%20Alzain&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Turning%20data%20into%20decisions.;Deep%20Learning%2C%20from%20paper%20to%20production." alt="Typing introduction" />
+</p>
 
-<br clear="both">
-
-<h4 data-importer="text" align="left">Senior CS student. I work on machine learning, deep learning, and data science,<br>and building full-stack when a project needs it.<br><br>My core work is in Python training and evaluating models, working through data<br>end to end from cleaning and exploration to feature engineering and results that<br>hold up under scrutiny. Deep learning is where most of my attention goes,<br>primarily in PyTorch. I build with React and Node when a model needs an<br>interface, which keeps me close to what it takes to move something from a<br>notebook into a system people actually use.<br><br>Life long Learner, Committed to continuous learning new architectures, research papers, and<br>better approaches to problems I thought I'd already solved.<br><br><br>"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra</h4>
-
-###
-
-<br clear="both">
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="40" alt="linkedin logo"  />
-  <a href="mohammeddalzain@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="40" alt="gmail logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mohalzain">
+    <img src="https://komarev.com/ghpvc/?username=mohalzain&label=Profile%20views&color=00FFFF&style=flat-square" alt="mohalzain's profile views" />
   </a>
-</div>
+</p>
 
-###
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
-<br clear="both">
+## 📌 About Me
+- I engineer machine learning systems that move beyond the notebook and into production.
+- I work across the full lifecycle: exploring and cleaning data, training and evaluating models, then serving them through APIs on infrastructure I deploy and maintain myself and I care more about understanding why something works than about just getting it to run.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/mohalzain/mohalzain/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Status" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/mohalzain/mohalzain/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=mohalzain&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
-###
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/mohalzain">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohalzain&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="mohalzain's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=mohalzain&theme=dark&hide_border=true&cache_seconds=86400" alt="mohalzain's GitHub Streak" width="49%" />
+</p>
 
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://sa.linkedin.com/in/mohammedalzain"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mohammed Alzain's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammeddalzain@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mohammed Alzain's Email"/></a>
+</p>
 
