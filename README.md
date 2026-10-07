@@ -29,8 +29,10 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 ## ⚙️ Tech Stack
 
 <div align="center">
+  
 ## **Languages**
 <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,html,css&theme=dark" alt="languages"/>
+
 ## **AI / Machine Learning**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -39,6 +41,7 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
 ## **Backend & Data**
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
