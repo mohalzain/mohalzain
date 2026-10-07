@@ -46,7 +46,7 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=fastapi&logoColor=white"/>
 
 
 ## 📊 GitHub Stats
