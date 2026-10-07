@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammed%20Alzain&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Turning%20data%20into%20decisions.;Deep%20Learning%2C%20from%20paper%20to%20production." alt="Typing introduction" />
+</p>
+
+<p align="center">
   <a href="https://komarev.com/ghpvc/?username=mohalzain">
     <img src="https://komarev.com/ghpvc/?username=mohalzain&label=Profile%20views&color=00FFFF&style=flat-square" alt="mohalzain's profile views" />
   </a>
 </p>
-
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I engineer machine learning systems that move beyond the notebook and into production.
@@ -21,6 +23,7 @@
   <img src="https://streak-stats.demolab.com/?user=mohalzain&theme=dark&hide_border=true&cache_seconds=86400" alt="mohalzain's GitHub Streak" width="49%" />
 </p>
 
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -28,6 +31,4 @@
   <a href="mailto:mohammeddalzain@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mohammed Alzain's Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Turning%20data%20into%20decisions.;Deep%20Learning%2C%20from%20paper%20to%20production." alt="Typing introduction" />
-</p>
+
