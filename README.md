@@ -64,6 +64,9 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
   </a>
   <img src="https://streak-stats.demolab.com/?user=mohalzain&theme=dark&hide_border=true&cache_seconds=86400" alt="mohalzain's GitHub Streak" width="49%" />
 </p>
-<p><i>"Understand it deep enough to build it from scratch." — Me</i>< align="center"/p>
+
+<p align="center"><i>"Understand it deep enough to build it from scratch." — Me</i>< /p>
+
+  
 <img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="30%" />
 
