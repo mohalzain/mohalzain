@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sa.linkedin.com/in/mohammedalzain"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mohammed Alzain's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohammeddalzain@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Mohammed Alzain's Email"/></a>
+  <a href="https://sa.linkedin.com/in/mohammedalzain"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" alt="Mohammed Alzain's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohammeddalzain@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mohammed Alzain's Email"/></a>
 </p>
 
 <p align="center">
