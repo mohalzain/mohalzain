@@ -30,10 +30,10 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 
 <div align="center">
   
-## **Languages**
+ **Languages**
 <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,html,css&theme=dark" alt="languages"/>
 
-## **AI / Machine Learning**
+**AI / Machine Learning**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -42,13 +42,14 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-## **Backend & Data**
+ **Backend & Data**
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodejs&logoColor=white"/>
 
+<img src="https://miro.medium.com/v2/resize:fit:1050/format:webp/0*HQ7WKolP9iEr0z6x.gif">
 
 ## 📊 GitHub Stats
 <p align="center">
