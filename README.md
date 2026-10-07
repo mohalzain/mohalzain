@@ -30,12 +30,10 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 
 <div align="center">
 
-**Languages**
+## **Languages**
+<img src="https://skillicons.dev/icons?i=python,cs,js,cpp,html,css&theme=dark" alt="languages"/>
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,cpp,html,css&theme=dark" alt="languages"/>
-
-**AI / Machine Learning**
-
+## **AI / Machine Learning**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -44,8 +42,8 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
-**Backend & Data**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+## **Backend & Data**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
