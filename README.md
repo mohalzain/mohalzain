@@ -55,6 +55,8 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=nodejs&logoColor=white"/>
 
 
+
+
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/mohalzain">
@@ -63,5 +65,5 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
   <img src="https://streak-stats.demolab.com/?user=mohalzain&theme=dark&hide_border=true&cache_seconds=86400" alt="mohalzain's GitHub Streak" width="49%" />
 </p>
 
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="50%" />
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="30%" />
 
