@@ -9,11 +9,8 @@
   <a href="mailto:mohammeddalzain@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mohammed Alzain's Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=mohalzain">
-    <img src="https://komarev.com/ghpvc/?username=mohalzain&label=Profile%20views&color=00FFFF&style=flat-square" alt="mohalzain's profile views" />
-  </a>
-</p>
+
+
 
 ## 📌 About Me
 I engineer machine learning systems that move beyond the notebook and into production.
