@@ -17,7 +17,7 @@ I engineer machine learning systems that move beyond the notebook and into produ
 
 I work across the full lifecycle: exploring and cleaning data, training and evaluating models, then serving them through APIs on infrastructure I deploy and maintain myself and I care more about understanding why something works than about just getting it to run.
   * ☁️ Cloud Engineering Training, AWS: networking, IAM & infrastructure
-  * 🛠️ Building with: PyTorch · LangCcain · scikit-learn · FastAPI · Node.js/Express
+  * 🛠️ Building with: PyTorch · LangChain · scikit-learn · FastAPI · Node.js/Express
   * 🏛️ Qassim University, Computer Science
   * 📫 Reach me at: mohammeddalzain@gmail.com
 
