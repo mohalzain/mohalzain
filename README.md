@@ -32,7 +32,7 @@ I work across the full lifecycle: exploring and cleaning data, training and eval
 <img src="https://skillicons.dev/icons?i=python,cs,js,cpp,html,css&theme=dark" alt="languages"/>
 
 
-**AI / Machine Learning**
+**AI / Machine Learning **
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
