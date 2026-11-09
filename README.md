@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammed%20Alzain&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api? type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammed%20Alzain&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Turning%20data%20into%20decisions.;Deep%20Learning%2C%20from%20paper%20to%20production." alt="Typing introduction" />
